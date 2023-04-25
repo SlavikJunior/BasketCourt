@@ -24,7 +24,7 @@
         android:id="@+id/ball"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:background="null"
+        android:background="@null"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/parent"
         app:layout_constraintStart_toStartOf="parent"
